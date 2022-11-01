@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56580c6c-3415-442f-8856-bdee77b00590" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IntrosdutionToJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Khaibao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SystemTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToanTu.java" afterDir="false" />
-    </list>
+    <list default="true" id="56580c6c-3415-442f-8856-bdee77b00590" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,23 +33,37 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ToanTu">
-    <configuration name="Khaibao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Khaibao" />
+  <component name="RunManager" selected="Application.ChuyenDoiTienTe">
+    <configuration name="ChuyenDoiTienTe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChuyenDoiTienTe" />
       <module name="IntrosdutionToJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SystemTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SystemTime" />
+    <configuration name="KiemTraNamNhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KiemTraNamNhuan" />
       <module name="IntrosdutionToJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToanTu" />
+    <configuration name="Sayhello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sayhello" />
+      <module name="IntrosdutionToJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhCanNang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TinhCanNang" />
+      <module name="IntrosdutionToJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhSoNgay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TinhSoNgay" />
       <module name="IntrosdutionToJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,9 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ToanTu" />
-        <item itemvalue="Application.Khaibao" />
-        <item itemvalue="Application.SystemTime" />
+        <item itemvalue="Application.ChuyenDoiTienTe" />
+        <item itemvalue="Application.Sayhello" />
+        <item itemvalue="Application.TinhCanNang" />
+        <item itemvalue="Application.KiemTraNamNhuan" />
+        <item itemvalue="Application.TinhSoNgay" />
       </list>
     </recent_temporary>
   </component>
@@ -81,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667290615543</updated>
-      <workItem from="1667290618120" duration="1661000" />
+      <workItem from="1667290618120" duration="8661000" />
     </task>
     <servers />
   </component>
