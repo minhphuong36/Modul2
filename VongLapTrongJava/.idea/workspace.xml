@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56580c6c-3415-442f-8856-bdee77b00590" name="Changes" comment="" />
+    <list default="true" id="2d1a7b42-484e-49c3-bf52-c9a593f13f07" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,12 +15,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GwDB7O96kHUXhdQD5iFpukCYps" />
+  <component name="ProjectId" id="2GyBoJ72Mpyx8tAEuB0Nk52TKjQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,62 +35,62 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ToanTu">
-    <configuration name="ChuyenDoiTienTe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChuyenDoiTienTe" />
-      <module name="IntrosdutionToJava" />
+  <component name="RunManager" selected="Application.SntNhoHon100">
+    <configuration name="HienThiCacLoaiHinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HienThiCacLoaiHinh" />
+      <module name="VongLapTrongJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KiemTraNamNhuan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KiemTraNamNhuan" />
-      <module name="IntrosdutionToJava" />
+    <configuration name="HienthiSNT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HienthiSNT" />
+      <module name="VongLapTrongJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sayhello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sayhello" />
-      <module name="IntrosdutionToJava" />
+    <configuration name="KiemTraSNT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KiemTraSNT" />
+      <module name="VongLapTrongJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TinhCanNang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TinhCanNang" />
-      <module name="IntrosdutionToJava" />
+    <configuration name="SntNhoHon100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SntNhoHon100" />
+      <module name="VongLapTrongJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToanTu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ToanTu" />
-      <module name="IntrosdutionToJava" />
+    <configuration name="ThietkeMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThietkeMenu" />
+      <module name="VongLapTrongJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ToanTu" />
-        <item itemvalue="Application.ChuyenDoiTienTe" />
-        <item itemvalue="Application.Sayhello" />
-        <item itemvalue="Application.TinhCanNang" />
-        <item itemvalue="Application.KiemTraNamNhuan" />
+        <item itemvalue="Application.SntNhoHon100" />
+        <item itemvalue="Application.HienthiSNT" />
+        <item itemvalue="Application.HienThiCacLoaiHinh" />
+        <item itemvalue="Application.KiemTraSNT" />
+        <item itemvalue="Application.ThietkeMenu" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="56580c6c-3415-442f-8856-bdee77b00590" name="Changes" comment="" />
-      <created>1667290615543</created>
+      <changelist id="2d1a7b42-484e-49c3-bf52-c9a593f13f07" name="Changes" comment="" />
+      <created>1667351123412</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667290615543</updated>
-      <workItem from="1667290618120" duration="9735000" />
-      <workItem from="1667351212492" duration="48000" />
+      <updated>1667351123412</updated>
+      <workItem from="1667351125006" duration="84000" />
+      <workItem from="1667351263145" duration="19476000" />
     </task>
     <servers />
   </component>
@@ -107,20 +107,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Khaibao.java</url>
-          <line>1</line>
-          <properties class="Khaibao" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
