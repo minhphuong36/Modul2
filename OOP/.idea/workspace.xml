@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a83cac9-635d-4020-975c-82502e18c842" name="Changes" comment="" />
+    <list default="true" id="d0c1a8af-3dc4-4781-bd29-5c40dd0dd58d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GiaiPhuongTrinhBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HinhChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StopWatch.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,12 +29,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2H1BsQFpnOm8e9fO9gRLgCUq41y" />
+  <component name="ProjectId" id="2H3vuT0Mq7XrRTZJGg4eTmA4zck" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,74 +44,56 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/java/QuanLySinhVien",
+    "last_opened_file_path": "D:/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemKyTuTrongChuoi">
-    <configuration name="DemKyTuTrongChuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemKyTuTrongChuoi" />
-      <module name="ArrayandMethod" />
+  <component name="RunManager" selected="Application.StopWatch">
+    <configuration name="GiaiPhuongTrinhBac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GiaiPhuongTrinhBac2" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemSoSinhVienDo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DemSoSinhVienDo" />
-      <module name="ArrayandMethod" />
+    <configuration name="HinhChuNhat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HinhChuNhat" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumColum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SumColum" />
-      <module name="ArrayandMethod" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimMinTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TimMinTrongMang" />
-      <module name="ArrayandMethod" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TongDuongCheoChinh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TongDuongCheoChinh" />
-      <module name="ArrayandMethod" />
+    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StopWatch" />
+      <module name="OOP" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemKyTuTrongChuoi" />
-        <item itemvalue="Application.TongDuongCheoChinh" />
-        <item itemvalue="Application.SumColum" />
-        <item itemvalue="Application.DemSoSinhVienDo" />
-        <item itemvalue="Application.TimMinTrongMang" />
+        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.GiaiPhuongTrinhBac2" />
+        <item itemvalue="Application.HinhChuNhat" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a83cac9-635d-4020-975c-82502e18c842" name="Changes" comment="" />
-      <created>1667442918624</created>
+      <changelist id="d0c1a8af-3dc4-4781-bd29-5c40dd0dd58d" name="Changes" comment="" />
+      <created>1667526805981</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667442918624</updated>
-      <workItem from="1667442920514" duration="31946000" />
-      <workItem from="1667524158695" duration="604000" />
-      <workItem from="1667550517909" duration="107000" />
-      <workItem from="1667577048934" duration="737000" />
-      <workItem from="1667643709648" duration="27000" />
+      <updated>1667526805981</updated>
+      <workItem from="1667526807441" duration="14126000" />
+      <workItem from="1667573800922" duration="626000" />
+      <workItem from="1667728758763" duration="1202000" />
     </task>
     <servers />
   </component>
