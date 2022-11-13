@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="165bb412-d366-4811-963b-c5de331e8d70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AbstractClassAndInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/fruit/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/fruit/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animalAndinterface/fruit/TestFruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparable/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparator/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparator/CircleComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparator/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comparator/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resizeable/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resizeable/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resizeable/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resizeable/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resizeable/Test.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HI8hM1Nn2XvfLQ8ZRNdP9MvbGb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/java/InheritanceLearning"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="resizeable" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.resizeable.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animalAndinterface.animal.Test" />
+      <module name="AbstractClassAndInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animalAndinterface.animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestFruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animalAndinterface.fruit.TestFruit" />
+      <module name="AbstractClassAndInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="animalAndinterface.fruit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comparable.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comparable.Test" />
+      <module name="AbstractClassAndInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comparable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comparator.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="comparator.Test" />
+      <module name="AbstractClassAndInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="comparator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resizeable.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="resizeable.Test" />
+      <module name="AbstractClassAndInterface" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="resizeable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.resizeable.Test" />
+        <item itemvalue="Application.comparable.Test" />
+        <item itemvalue="Application.comparator.Test" />
+        <item itemvalue="Application.TestFruit" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="165bb412-d366-4811-963b-c5de331e8d70" name="Changes" comment="" />
+      <created>1667961358939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667961358939</updated>
+      <workItem from="1667961360608" duration="13236000" />
+      <workItem from="1668002531335" duration="6767000" />
+      <workItem from="1668046009727" duration="154000" />
+      <workItem from="1668064562332" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

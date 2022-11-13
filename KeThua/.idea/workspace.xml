@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e16773-35f9-4d79-9805-ba8fca29760c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KeThua.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circleAndcylinder/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circleAndcylinder/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hinhhoc/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/point2Dpoint3D/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/point2Dpoint3D/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pointAndmoveablepoint/MoveablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pointAndmoveablepoint/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle2/TestTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangle2/Triangle.java" afterDir="false" />
-    </list>
+    <list default="true" id="98e16773-35f9-4d79-9805-ba8fca29760c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,13 +26,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.TestTriangle">
     <configuration name="MoveablePoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pointAndmoveablepoint.MoveablePoint" />
@@ -143,6 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1667875346317</updated>
       <workItem from="1667875347814" duration="20020000" />
+      <workItem from="1667961312073" duration="45000" />
     </task>
     <servers />
   </component>

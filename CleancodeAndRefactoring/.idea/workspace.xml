@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30deb515-1066-4d72-84cc-5a688acf6488" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CleancodeAndRefactoring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/refactoring/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tachbien/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tachbien/FizzBuzzTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tacphuongthuc/CylinderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tenisgame/TennisGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tenisgame/TennisGameTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HMB4IbQc3uOSTwRzwJYq6a9cYJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.TennisGameTest">
+    <configuration name="CylinderTest.testGetVolume0And0" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CleancodeAndRefactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tacphuongthuc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tacphuongthuc" />
+      <option name="MAIN_CLASS_NAME" value="tacphuongthuc.CylinderTest" />
+      <option name="METHOD_NAME" value="testGetVolume0And0" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CylinderTest.testGetVolume1And2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CleancodeAndRefactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tacphuongthuc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tacphuongthuc" />
+      <option name="MAIN_CLASS_NAME" value="tacphuongthuc.CylinderTest" />
+      <option name="METHOD_NAME" value="testGetVolume1And2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzTest.testFizzBuzz31" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CleancodeAndRefactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tachbien.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tachbien" />
+      <option name="MAIN_CLASS_NAME" value="tachbien.FizzBuzzTest" />
+      <option name="METHOD_NAME" value="testFizzBuzz31" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisGameTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CleancodeAndRefactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenisgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tenisgame" />
+      <option name="MAIN_CLASS_NAME" value="tenisgame.TennisGameTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TennisGameTest.checkAllScores" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="CleancodeAndRefactoring" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tenisgame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tenisgame" />
+      <option name="MAIN_CLASS_NAME" value="tenisgame.TennisGameTest" />
+      <option name="METHOD_NAME" value="checkAllScores" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TennisGameTest" />
+        <item itemvalue="TestNG.TennisGameTest.checkAllScores" />
+        <item itemvalue="TestNG.CylinderTest.testGetVolume1And2" />
+        <item itemvalue="TestNG.CylinderTest.testGetVolume0And0" />
+        <item itemvalue="TestNG.FizzBuzzTest.testFizzBuzz31" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30deb515-1066-4d72-84cc-5a688acf6488" name="Changes" comment="" />
+      <created>1668084881721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668084881721</updated>
+      <workItem from="1668084883423" duration="5909000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
