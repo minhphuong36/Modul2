@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27eb1296-1fb3-4b15-bbe1-92f703ffab5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA_DanhSach.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleLinkedList/MyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleLinkedList/TestMyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleList/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arraylist/MyListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/StaticClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/TestStatic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Modul2/AutomatedTesting_TDD"
+    "last_opened_file_path": "D:/java/QuanLySinhVien"
   }
 }]]></component>
   <component name="RunManager" selected="Application.TestStatic">
@@ -94,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="arraylist.MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraylist.MyListTest" />
+      <module name="DSA_DanhSach" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arraylist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyListTest.addTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="DSA_DanhSach" />
       <extension name="coverage">
@@ -115,6 +115,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TestStatic" />
+        <item itemvalue="Application.arraylist.MyListTest" />
         <item itemvalue="TestNG.MyListTest.addTest" />
         <item itemvalue="Application.TestMyLinkedList" />
         <item itemvalue="Application.MyListTest" />
@@ -130,6 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668433954063</updated>
       <workItem from="1668433955853" duration="9160000" />
+      <workItem from="1668473577860" duration="7105000" />
     </task>
     <servers />
   </component>
@@ -146,16 +148,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/arraylist/MyListTest.java</url>
-          <line>8</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
