@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27eb1296-1fb3-4b15-bbe1-92f703ffab5c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AutumatedTesing_TDD/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="27eb1296-1fb3-4b15-bbe1-92f703ffab5c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +128,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668433954063</updated>
       <workItem from="1668433955853" duration="9160000" />
-      <workItem from="1668473577860" duration="7105000" />
+      <workItem from="1668473577860" duration="8354000" />
     </task>
     <servers />
   </component>
