@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a0f711-2dee-4949-b18b-a3366bfec503" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaColectionFrameword.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparable_comparator/AgeComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparable_comparator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/comparable_comparator/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashmap_hashset/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hashmap_hashset/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/luudanhsach/TestMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudung_arrlist_linkedlist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudung_arrlist_linkedlist/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudung_arrlist_linkedlist/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudung_arrlist_linkedlist/SortDownByPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sudung_arrlist_linkedlist/SortUpByPrice.java" afterDir="false" />
-    </list>
+    <list default="true" id="43a0f711-2dee-4949-b18b-a3366bfec503" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -132,6 +114,7 @@
       <workItem from="1668842237001" duration="423000" />
       <workItem from="1668842725078" duration="1446000" />
       <workItem from="1668861526697" duration="6151000" />
+      <workItem from="1668953530433" duration="45000" />
     </task>
     <servers />
   </component>
