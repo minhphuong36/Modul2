@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2798e7c2-3542-4b85-8ce6-f43235fdaadd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ThuatToanSapXep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChenTangDan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SapXepChen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SapXepNoiBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
-    </list>
+    <list default="true" id="2798e7c2-3542-4b85-8ce6-f43235fdaadd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,7 +88,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668953585706</updated>
       <workItem from="1668953590261" duration="4867000" />
-      <workItem from="1668998349003" duration="5138000" />
+      <workItem from="1668998349003" duration="5242000" />
     </task>
     <servers />
   </component>
