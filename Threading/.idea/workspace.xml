@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73cc7ed3-b332-41ae-a98a-e1f964f50248" name="Changes" comment="" />
+    <list default="true" id="312bb60e-bc7e-4099-9903-c47ea8a96f50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Threading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RunnableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demso/Count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demso/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rascingcar/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rascingcar/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,39 +28,38 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2HwtOesS5LB5rYwzeCAAYn3ufP7" />
+  <component name="ProjectId" id="2I8LJ2plmujxxCrkz4IRp2cN2x5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Modul2/BinaryFileandSerialization&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Modul2/Threading"
   }
-}</component>
-  <component name="RunManager" selected="Application.managerproduct.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.demso.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="BinaryFileandSerialization" />
+      <module name="Threading" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="managerproduct.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="managerproduct.Main" />
-      <module name="BinaryFileandSerialization" />
+    <configuration name="demso.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demso.Main" />
+      <module name="Threading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="managerproduct.*" />
+          <option name="PATTERN" value="demso.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="serialization.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="serialization.Main" />
-      <module name="BinaryFileandSerialization" />
+    <configuration name="rascingcar.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rascingcar.Main" />
+      <module name="Threading" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="serialization.*" />
+          <option name="PATTERN" value="rascingcar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,8 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.managerproduct.Main" />
-        <item itemvalue="Application.serialization.Main" />
+        <item itemvalue="Application.demso.Main" />
+        <item itemvalue="Application.rascingcar.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -79,14 +91,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="73cc7ed3-b332-41ae-a98a-e1f964f50248" name="Changes" comment="" />
-      <created>1669207946880</created>
+      <changelist id="312bb60e-bc7e-4099-9903-c47ea8a96f50" name="Changes" comment="" />
+      <created>1669558190109</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669207946880</updated>
-      <workItem from="1669207949703" duration="3136000" />
-      <workItem from="1669258180394" duration="9599000" />
-      <workItem from="1669554886988" duration="750000" />
+      <updated>1669558190109</updated>
+      <workItem from="1669558191577" duration="2890000" />
+      <workItem from="1669603657158" duration="1024000" />
     </task>
     <servers />
   </component>
