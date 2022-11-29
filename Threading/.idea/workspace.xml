@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="312bb60e-bc7e-4099-9903-c47ea8a96f50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Threading.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RunnableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demso/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demso/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rascingcar/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rascingcar/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="312bb60e-bc7e-4099-9903-c47ea8a96f50" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -97,7 +84,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669558190109</updated>
       <workItem from="1669558191577" duration="2890000" />
-      <workItem from="1669603657158" duration="1024000" />
+      <workItem from="1669603657158" duration="1457000" />
     </task>
     <servers />
   </component>
